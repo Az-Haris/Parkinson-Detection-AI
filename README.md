@@ -1,6 +1,6 @@
 # Parkinson’s Disease Detection Using Machine Learning
 
-(Visit Project)[https://colab.research.google.com/drive/1t5R9saa0o4-9kmJ7KRNF1Ygv1fG9fTpN?usp=sharing]
+[Visit Project](https://colab.research.google.com/drive/1t5R9saa0o4-9kmJ7KRNF1Ygv1fG9fTpN?usp=sharing)
 
 ## Project Overview
 This project implements a supervised machine learning system to detect Parkinson’s Disease using biomedical voice measurements. The system analyzes voice-related features and classifies individuals as either healthy or affected by Parkinson’s disease.
