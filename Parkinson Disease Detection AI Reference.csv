@@ -1,0 +1,12 @@
+Paper / Study,Models Used,Dataset / Methodology,Reported Performance,Reference Link
+Sakar et al. (2019),"SVM (RBF, Linear), KNN, Logistic Regression, Naïve Bayes, Random Forest, MLP","Speech signal features, UCI Parkinson Dataset",Best accuracy ≈ 86% (SVM-RBF),https://www.mdpi.com/2079-9292/11/22/3782
+Yasar et al. (2019),Artificial Neural Network (ANN),Speech-based Parkinson dataset,Accuracy ≈ 94.93%,https://www.mdpi.com/2079-9292/11/22/3782
+Avuçlu & Elen (2020),"KNN, Random Forest, Naïve Bayes, SVM",UCI Parkinson voice dataset,Best accuracy ≈ 70.26% (NB),https://www.mdpi.com/2079-9292/11/22/3782
+Marimuthu et al. (2022),"XGBoost, Random Forest, Decision Tree, SVM",Parkinson voice dataset with feature selection,XGBoost ≈ 94.87%,https://link.springer.com/article/10.1007/s44230-024-00069-z
+Torghabeh et al. (2024),"Feedforward Neural Network (FNN), KSVM",Voice signal processing with optimization,Accuracy ≈ 99.11%,https://pubmed.ncbi.nlm.nih.gov/38877028
+Omer et al. (2025),"SVM, Random Forest, Deep Neural Network (DNN)","CRISP-DM methodology, voice features",DNN performed best overall,https://www.aaasjournals.com/index.php/ajapas/article/view/1573
+Lee et al. (2022),"SVM, CNN (Deep Learning)",EEG brain signal data,CNN ≈ 96–99%,https://www.mdpi.com/2075-4418/15/6/773
+Gupta et al. (2022),Random Forest + PCA,Parkinson dataset with dimensionality reduction,Accuracy ≈ 90%,https://arxiv.org/abs/2203.11287
+Ahmed et al. (Review Paper),Traditional ML vs Deep Learning,Literature survey of Parkinson detection,Deep learning outperforms ML,https://www.ej-compute.org/index.php/compute/article/view/67
+MRI-based PD Study (2024),"CNN, GCN, ConvKAN",MRI brain images,AUC up to 0.99,https://arxiv.org/abs/2407.17380
+Proposed System (This Project),Support Vector Machine (SVM – RBF Kernel),"UCI Parkinson’s Voice Dataset; data preprocessing, feature scaling (StandardScaler), 80–20 train-test split","Accuracy ≈ 89.7%, high recall for Parkinson’s patients",https://archive.ics.uci.edu/ml/datasets/parkinsons
